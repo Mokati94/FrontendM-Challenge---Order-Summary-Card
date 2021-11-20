@@ -2,6 +2,8 @@
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
+https://mokati94.github.io/FrontendM-Challenge---Order-Summary-Card/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
